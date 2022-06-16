@@ -25,9 +25,16 @@ a {
 	background-color: #fff;
 }
 
+h3, p {
+	padding: 1rem;
+}
+
+
 div img {
 	width: 100%;
 	max-width: 250px; 
+	padding: 1rem;
+
 }
 /* grid system */
 

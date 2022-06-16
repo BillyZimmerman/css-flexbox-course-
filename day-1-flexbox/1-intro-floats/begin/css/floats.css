@@ -25,6 +25,10 @@ a {
 	background-color: #fff;
 }
 
+p {
+	padding: 1rem;
+}
+
 div img {
 	width: 100%;
 	max-width: 225px; 
