@@ -25,15 +25,30 @@ a {
 	background-color: #fff;
 }
 
-p {
+h3, p {
 	padding: 1rem;
 }
 
 div img {
 	width: 100%;
 	max-width: 225px; 
+	padding: 1rem;
+
 }
 
+.col-1-2, 
+.col-1-4 {
+	background-color: rgb(204, 230, 255);
+}
+.col-2 {
+	background-color: rgb(186, 131, 186);
+}
+.col-3 {
+	background-color: #cff;
+}
+.col-4 {
+	background-color: #ccf;
+} 
 /* grid system -- mobile first! */
 
 
